@@ -1,16 +1,42 @@
-### Hi there 👋
 
-<!--
-**ki3ani/ki3ani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/35601092/189216061-5548aac0-e0ec-4fda-9be6-ddde5515bf79.jpg" alt="my banner"></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Hi there, I'm Kenneth 👋
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">
+I'm a Backend Engineer 💻, Database Designer 💽, and Designer 🎨!
+</h2> 
+
+I love the entire process of developing simple yet accurate and concise solutions to a wide range of problems.
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/kenneth-mungai-129301157/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/ki3ani"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+</br>
+
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- Data Scraping website
+- Loan predictor app
+- Chat app
+
+## 🌱 I'm currently learning
+
+- Business Information Technology Student
+- REST APIs
+- Machine Learning and Data Visualization
+
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ki3ani)](https://github.com/ki3ani)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki3ani&layout=compact)](https://github.com/ki3ani)
+
+
