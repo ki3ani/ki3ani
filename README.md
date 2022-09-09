@@ -35,8 +35,6 @@ I love the entire process of developing simple yet accurate and concise solution
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ki3ani)](https://github.com/ki3ani)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki3ani&layout=compact)](https://github.com/ki3ani)
 
 
