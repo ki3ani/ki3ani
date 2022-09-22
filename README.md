@@ -23,14 +23,11 @@ I love the entire process of developing simple yet accurate and concise solution
 
 ## 🔭 I'm currently working on
 
-- Data Scraping website
-- Machine Learning and Data Visualization
-- Chat app
+- Backend development
 
 ## 🌱 I'm currently learning
 
 - Business Information Technology Student
-- Data Structures and Algorithms
 - Machine Learning and Data Visualization
 
 ## 📈 GitHub Stats 
