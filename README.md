@@ -1,8 +1,4 @@
 
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/35601092/189216061-5548aac0-e0ec-4fda-9be6-ddde5515bf79.jpg" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm Kenneth 👋
 </h3>
