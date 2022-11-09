@@ -4,7 +4,7 @@ Hi there, I'm Kenneth 👋
 </h3>
 
 <h2 align="center">
-I'm a Backend Engineer based in Nairobi!
+I'm a Software Engineer based in Nairobi!
 </h2> 
 
 I love the entire process of developing simple yet accurate and concise solutions to a wide range of problems.
