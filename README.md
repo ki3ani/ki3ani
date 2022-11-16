@@ -19,7 +19,6 @@ I love the entire process of developing simple yet accurate and concise solution
 ## 🔭 I'm currently working on
 
 - Backend development
-- Android development
 
 ## 🌱 I'm currently learning
 
