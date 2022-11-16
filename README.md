@@ -28,5 +28,5 @@ I love the entire process of developing simple yet accurate and concise solution
 - API and Database Design 
 
 ## 📈 GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki3ani&langs_count=8)](https://github.com/ki3ani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki3ani&layout=compact)](https://github.com/ki3ani/github-readme-stats)
 
