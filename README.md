@@ -19,8 +19,6 @@ I love the entire process of developing simple yet accurate and concise solution
 ## 🔭 I'm currently working on
 - Business Information Technology(Student)
 
-- Backend development
-
 ## 🌱 I'm currently learning
 
 - Backend development
