@@ -17,12 +17,13 @@ I love the entire process of developing simple yet accurate and concise solution
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
+- Business Information Technology Student
 
 - Backend development
 
 ## 🌱 I'm currently learning
 
-- Business Information Technology Student
+- Backend development
 - Machine Learning and Data Visualization
 - API and Database Design 
 
