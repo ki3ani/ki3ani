@@ -1,11 +1,11 @@
 
-<h3 align="center">
+<h1 align="center">
 Hi There,
-</h3>
+</h1>
 
-<h2 align="center">
+<h3 align="center">
 I'm a Software Engineer based in Nairobi!
-</h2> 
+</h3> 
 
 I love the entire process of developing simple yet accurate and concise solutions to a wide range of problems.
 
