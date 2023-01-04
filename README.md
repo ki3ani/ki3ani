@@ -8,8 +8,6 @@ I'm a Software Engineer based in Nairobi!
 </h3> 
 
 <p>I love the entire process of developing simple yet accurate and concise solutions to a wide range of problems.I am mainly interested in API design, Database Management and Applied Machine learning using Data for various solutions and insights</p>
-<br>
-<p> I am currently learning golang </p>
 
 ### 🤝 Connect with me:
 
