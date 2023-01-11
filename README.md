@@ -10,7 +10,7 @@ I'm a Software Engineer based in Nairobi!
 <p>I am a software engineer with a strong proficiency in Python and its frameworks such as Django and Flask. I have experience in working on several projects that required me to work with databases and API design, and I am efficient in designing and maintaining efficient databases. Additionally, I have working knowledge of PHP and JavaScript.</p>
 
 <br>
-<p>I am currenlty learning Machine Learning <p>
+<p>I am currently learning more about Machine Learning <p>
 
 ### 🤝 Connect with me:
 
