@@ -11,7 +11,7 @@
 <br/>
  
 ### My Blog
-<a href="https://medium.com/@kimmungai"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/>📃</a>
+<a href="https://medium.com/@kimmungai"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg"/></a>
        
 <br/>
 
