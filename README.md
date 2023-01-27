@@ -1,19 +1,35 @@
 
-<h1 align="center">
-Hi There,
-</h1>
+# Hello there 👋, I'm Ken Mungai
 
-<h3 align="center">
-I'm a Software Engineer based in Nairobi!
-</h3> 
+### Software-Engineer
 
-<p>I am a software engineer with a strong proficiency in Python and its frameworks such as Django and Flask. I have experience in working on several projects that required me to work with databases and API design, and I am efficient in designing and maintaining efficient databases. Additionally, I have working knowledge of PHP and JavaScript.</p>
+- 🔭 I’m currently working on: __Fullstack Development__ 
+- 🌱 I’m currently learning: __Machine learning, Go__
+- 💬 Ask me about __Software, Artificial Intelligence,__
+- ⚡ Fave Qoute: If you have a theory, you must try to explain what’s good and what’s bad about it equally. In science, you learn a kind of standard integrity and honesty. 
 
-<br>
-<p>I am also learning more about Machine Learning <p>
+<br/>
 
-### 🤝 Connect with me:
+<br/>
 
-<a href="https://www.linkedin.com/in/kenneth-mungai-129301157/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-</br>
+### My GitHub Stats
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=ki3ani&row=3&column=4&no-bg=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ki3ani"/>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=ki3ani&count_private=true&show_icons=true&theme=tokyonight"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki3ani&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+        </td>
+    </tr>
+</table>
 
