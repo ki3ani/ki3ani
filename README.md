@@ -11,13 +11,14 @@
 <br/>
  
 ### My Blog
-<a href="https://medium.com/@kimmungai"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="40" height="40 /></a>
+<a href="https://medium.com/@kimmungai"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="40" height="40" /></a>
        
 <br/>
 
 ### Contact me:
 
 <a href="https://twitter.com/ki3ani"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
+<br>
 <a href="https://www.linkedin.com/in/kenneth-mungai-129301157/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 ### My GitHub Stats
