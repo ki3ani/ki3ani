@@ -13,11 +13,9 @@
     <tr>
         <th>My Blog</th>
     </tr>
-    <tr>
         <td>
             <a href="https://ki3ani.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/>📃</a>
         </td>
-    </tr>
 </table>
 <br/>
 
