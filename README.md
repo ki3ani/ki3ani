@@ -5,20 +5,15 @@
 
 - 🔭 I’m currently working on: __Fullstack Development__ 
 - 🌱 I’m currently learning: __Machine learning, Go__
-- 💬 Ask me about __Software, Artificial Intelligence,__
+- 💬 Ask me about __Software, Artificial Intelligence,Technical Writing__
 - ⚡ Fave Qoute: If you have a theory, you must try to explain what’s good and what’s bad about it equally. In science, you learn a kind of standard integrity and honesty. 
 
 <br/>
-<table>
-    <tr>
-        <th>My Blog</th>
-    </tr>
-        <td>
-            <a href="https://ki3ani.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/>📃</a>
-        </td>
-</table>
+ 
+### My Blog
+<a href="https://medium.com/@kimmungai"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/>📃</a>
+       
 <br/>
-
 
 ### Contact me:
 
