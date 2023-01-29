@@ -1,11 +1,11 @@
 
-# Hello there 👋, I'm Ken Mungai
+# Hello there 👋, I'm Kim
 
 ### Software-Engineer
 
 - 🔭 I’m currently working on: __Fullstack Development(Python,JS/TS)__ 
 - 🌱 I’m currently learning: __Machine learning, Go__
-- 💬 Ask me about __Software, Artificial Intelligence,Technical Writing__
+- 💬 Ask me about __Software,Technical Writing,__
 - ⚡ Fave Qoute: If you have a theory, you must try to explain what’s good and what’s bad about it equally. In science, you learn a kind of standard integrity and honesty. 
 
 <br/>
