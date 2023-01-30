@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: __Fullstack Development__    
 - 🌱 I’m currently learning: __Machine learning, Go__
-- 💬 Ask me about __APIS, Databases, Algorithms, Technical writing__
+- 💬 Ask me about __APIS, Databases, Algorithms, Technical writing, Serverless, AWS__
 - ⚡ Fave Qoute: If you have a theory, you must try to explain what’s good and what’s bad about it equally. In science, you learn a kind of standard integrity and honesty. 
 
 <br/>
