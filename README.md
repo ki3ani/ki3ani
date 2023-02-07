@@ -19,16 +19,4 @@
 <br>
 <a href="https://www.linkedin.com/in/kenneth-mungai-129301157/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
-### My GitHub Stats
-
-<table>
-    <tr>
-       <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ki3ani"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki3ani&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-        </td>
-    </tr>
-</table>
 
