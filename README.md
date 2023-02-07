@@ -3,7 +3,7 @@
 
 ### Software-Engineer
 
-- 🔭 I’m currently working on: __Fullstack Development(Python,JS,Go)__    
+- 🔭 I’m currently working on: __Fullstack Development(Python,JS)__    
 - ⚡ Fave Qoute: If you have a theory, you must try to explain what’s good and what’s bad about it equally. In science, you learn a kind of standard integrity and honesty. 
 
 <br/>
