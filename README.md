@@ -5,7 +5,7 @@
 - 🧑🏾‍💻My Stack: __Python,SQL,JavaScript,AWS__
 - ⚡Fave Qoute: If you have a theory, you must try to explain what’s good and what’s bad about it equally. In science, you learn a kind of standard integrity and honesty.
 <br/>
- __My Blog:__
+ <h2>My Blog:<h2>
  <br/>
 <a href="https://dev.to/ki3ani"><img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" width="40" height="40" /></a>
 <br/>
