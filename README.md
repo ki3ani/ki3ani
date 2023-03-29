@@ -1,8 +1,4 @@
-
-# Hello there 👋, I'm Kim
 ## Software-Engineer
-- 🔭 I’m currently working on: __Fullstack Development__ 
-- 🧑🏾‍💻My Stack: __Python,SQL,JavaScript,AWS,__
 - ⚡Fave Qoute: If you have a theory, you must try to explain what’s good and what’s bad about it equally. In science, you learn a kind of standard integrity and honesty.
 <br/>
  <h4>My Blog:<h4>
