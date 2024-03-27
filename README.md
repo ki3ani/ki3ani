@@ -5,8 +5,6 @@
  <h4>My Blog:<h4>
 <a href="https://dev.to/ki3ani"><img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" width="40" height="40" /></a>
 <br/>
-<h4>Contact me:<h4/>
-<a href="https://twitter.com/ki3ani"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/kenneth-mungai-129301157/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<h4>Contact me:<h4/> href="https://www.linkedin.com/in/kenneth-mungai-129301157/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 
