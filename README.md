@@ -5,6 +5,3 @@
 
 ### My Blog:
 <a href="https://dev.to/ki3ani"><img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" width="40" height="40" /></a>
-
-### Contact me:
-<a href="https://www.linkedin.com/in/kenneth-mungai-129301157/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
