@@ -6,4 +6,4 @@
 ### My Blogs:
 <a href="https://dev.to/ki3ani"><img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" width="40" height="40" /></a>
 
-<a href="https://t.co/I6J5HgBmUZ"></a>
+<a href="https://t.co/I6J5HgBmUZ"><img src="https://img.shields.io/badge/Bear%20Blog-Read%20Post-black?style=flat" /></a>
