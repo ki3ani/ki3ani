@@ -9,6 +9,8 @@
 * AI security research
 
 ### My Blogs:
-<a href="https://dev.to/ki3ani"><img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" width="40" height="40" /></a>
+<a href="https://dev.to/ki3ani"><img src="https://img.shields.io/badge/dev.to-ki3ani-0A0A0A?style=flat&logo=dev.to&logoColor=white" /></a>
+&nbsp;&nbsp;
 <a href="https://t.co/I6J5HgBmUZ"><img src="https://img.shields.io/badge/Bear%20Blog-Read%20Post-black?style=flat" /></a>
+&nbsp;&nbsp;
 <a href="https://t.co/43RZ4jkf8z"><img src="https://img.shields.io/badge/Substack-AI%20Security%20Research-FF6719?style=flat&logo=substack&logoColor=white" /></a>
