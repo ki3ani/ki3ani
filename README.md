@@ -3,6 +3,8 @@
 "If you have a theory, you must try to explain what’s good and what’s bad about it equally. In science, you learn a kind of standard integrity and honesty."
 <h5>Richard Feynman</h5>
 
+Currently Building: https://www.tryalwayson.com/
+
 ### Interested in
 * Backend development
 * AI agents and automation
